@@ -1,0 +1,7 @@
+{
+  "name": "Vigilant - AI Fatigue & Digital Wellbeing",
+  "description": "An AI-powered digital wellbeing assistant that learns your habits, detects fatigue from excessive usage, and provides emergency guardian alerts.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
